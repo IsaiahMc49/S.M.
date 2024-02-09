@@ -1,0 +1,29 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #2f2a2cba;
+    background-image: url(golden_fireworks.png);
+}
+
+.header_text {
+    font-family: 'sans-serif';
+    font-size: 50px;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 0px;
+    text-shadow: 5px -1px #b89326;
+}
+
+.photo {
+    align-items: center;
+}
+
+.hearts_yes {
+    position: absolute;
+    top: 900px;
+    left: 1050px;
+}
